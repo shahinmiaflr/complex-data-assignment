@@ -23,7 +23,3 @@ for brand_details in mobile_specification:
     # print(mobile_name, mobile_price, country)
     print(f'{mobile_name} made in {country} is {mobile_price}. It is equal'
           f' to {exchnage_rate * usd_price} in BDT.')
-# print(mobile_name)
-# print(mobile_name)
-# for mobile in mobile_data:
-#     print(mobile)
